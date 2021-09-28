@@ -1,0 +1,35 @@
+commit 870c2521b2c2b832e11d4f9a613db6a1ca1544c3
+Author: Andrew Aikman <aaikman@mines.edu>
+Date:   Tue Sep 28 14:28:37 2021 -0600
+
+    Changed mouth to pink, text to blue and text to 'Purr'
+
+commit e380f5a8fe1e7da54f892c34f7cd99d28cc24915
+Author: Andrew Aikman <aaikman@mines.edu>
+Date:   Tue Sep 28 14:26:02 2021 -0600
+
+    Changed color back to black
+
+commit f5e5aab0cd9f1f45529892e4fb505bf63ff82081
+Author: Andrew Aikman <aaikman@mines.edu>
+Date:   Tue Sep 28 14:24:23 2021 -0600
+
+    Changed head size
+
+commit ef05ab1d70a17894e559de7c47b136f18b9a88f0
+Author: Katy Jendrzey <katyjendrzey@Katys-MBP.attlocal.net>
+Date:   Tue Sep 28 12:00:51 2021 -0600
+
+    Changed colors of cat and changed text to Hiss. Driver: Katy, Navigator: Andrew
+
+commit d1bd1efa720d3c4a0811c7b75d50fc4454b6fa8c
+Author: Andrew Aikman <aaikman@mines.edu>
+Date:   Tue Sep 28 11:47:14 2021 -0600
+
+    Files added
+
+commit 01edae6a21577b6fd045b5c7860a34bd9e5cfd59
+Author: andrewaikman8 <63765734+andrewaikman8@users.noreply.github.com>
+Date:   Tue Sep 28 11:27:55 2021 -0600
+
+    Initial commit
